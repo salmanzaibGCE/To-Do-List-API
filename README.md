@@ -1,4 +1,5 @@
-# Simple To-Do List API
+                                                                                            
+# Simple To-Do List API                                                            [![Build Docker Image](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml/badge.svg)](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml)
 
 A minimal REST API for managing tasks. Built with Python + Flask.
 Runs in Docker. Designed for CI with GitHub Actions.
@@ -45,4 +46,4 @@ If I had another day, I would:
 - Push the built image to a registry Docker Hub  instead of just building it locally in CI, and/or upload it as a workflow artifact so it's retrievable from the run itself
 - Add a simple front-end/UI so the API is easier to interact with and demo, rather than only through curl
 
-[![Build Docker Image](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml/badge.svg)](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml)
+
