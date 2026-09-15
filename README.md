@@ -1,5 +1,5 @@
                                                                                             
-# Simple To-Do List API                                                            [![Build Docker Image](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml/badge.svg)](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml)
+# Simple To-Do List API                                                                [![Build Docker Image](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml/badge.svg)](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml)
 
 A minimal REST API for managing tasks. Built with Python + Flask.
 Runs in Docker. Designed for CI with GitHub Actions.
