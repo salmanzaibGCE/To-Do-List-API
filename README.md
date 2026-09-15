@@ -44,3 +44,5 @@ If I had another day, I would:
 - Add a security/quality stage GitLeaks for hardcoded secrets, SonarQube/SonarCloud for code quality, and Trivy for image vulnerability scanning
 - Push the built image to a registry Docker Hub  instead of just building it locally in CI, and/or upload it as a workflow artifact so it's retrievable from the run itself
 - Add a simple front-end/UI so the API is easier to interact with and demo, rather than only through curl
+
+[![Build Docker Image](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml/badge.svg)](https://github.com/salmanzaibGCE/To-Do-List-API/actions/workflows/docker-build.yml)
